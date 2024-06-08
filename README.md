@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AKS297
-- 👀 I’m interested in ...Java
-- 🌱 I’m currently learning ...JavaFx,DSA
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I am AkshayaKumar,Java Developer
 - 📫 How to reach me ...akshayimmortal297@gmail.com
 
 <!---
